@@ -4,6 +4,6 @@
     {
 // Dodaje tekst a.p.
 //
-// A też sobie dodam
+// A ja nie dam Ci dodać
     }
 }
