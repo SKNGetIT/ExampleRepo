@@ -4,5 +4,6 @@
     {
 // Dodaje tekst a.p.
 // Zabrakło mi komentarzy
+//A teraz je dodaje
     }
 }
