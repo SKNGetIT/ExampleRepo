@@ -4,6 +4,6 @@
     {
 // Dodaje tekst a.p.
 //
-// A też sobie dodam
+// Tu ma być komentarz xxx
     }
 }
