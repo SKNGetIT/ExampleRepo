@@ -6,7 +6,5 @@
 // Zabrakło mi komentarzy
 //A teraz je dodaje
 // Bo lubię i kto mi zabroni
-//Dodajemy widok z kamery
-//obsługa widoku
     }
 }
